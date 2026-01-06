@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About | Nexture</title>
+<style>
+body{font-family:Arial;background:#ffffff;color:#1f2f2f;margin:0}
+header{background:#fff;border-bottom:1px solid #e6f2f1}
+.header-inner{max-width:1100px;margin:auto;padding:16px;display:flex;justify-content:space-between;align-items:center}
+.logo{height:85px}
+nav a{margin-left:20px;text-decoration:none;color:#1f2f2f;font-weight:600}
+nav a:hover{color:#0f766e}
+section{max-width:900px;margin:60px auto;padding:0 20px}
+h1{color:#0f766e}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a href="/"><img src="/static/logo.png" class="logo"></a>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/services">Services</a>
+      <a href="/product">Product</a>
+      <a href="/about">About</a>
+      <a href="/why">Why Nexture</a>
+      <a href="/contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section>
+  <h1>About Nexture</h1>
+
+  <p>
+    Nexture is a small, focused software studio built by two contributors
+    who care deeply about engineering quality, ownership, and long-term value.
+  </p>
+
+  <p>
+    We are not a body-shopping agency or an outsourcing middle layer.
+    Every line of code is written, reviewed, and maintained by the same people
+    who design the system.
+  </p>
+
+  <p>
+    Working on our own products alongside client projects gives us
+    real exposure to scalability challenges, system design decisions,
+    and long-term maintenance — experience that directly benefits our clients.
+  </p>
+
+  <p>
+    We believe good software should be understandable, reliable,
+    and built with intent.
+  </p>
+</section>
+
+
+</body>
+</html>
